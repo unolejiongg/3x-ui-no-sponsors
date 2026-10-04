@@ -6,7 +6,6 @@
 
 👉 [下载 v3.9.0 去赞助版](https://github.com/unolejiongg/3x-ui-no-sponsors/releases/tag/v3.9.0-no-sponsors.1)
 
-展开发布页底部的 **Assets** 下载文件。
 
 ## 修改内容
 
